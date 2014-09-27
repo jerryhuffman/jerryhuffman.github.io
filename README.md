@@ -1,4 +1,4 @@
 jerryhuffman.github.io
 ======================
 
-Jerry Huffman
+This is the main repo for Jerry Huffman's project repos.
